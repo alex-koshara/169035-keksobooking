@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Кошара](https://up.htmlacademy.ru/javascript/16/user/169035).
-* Наставник:
+*
 
 ---
 
